@@ -11,7 +11,10 @@ I have experience with a wide range of programming languages, including:
 - Javascript
 - Python
 - Ruby
+- Java
+- C++
 - PHP
+- Visual Fox Pro
 
 In addition to my technical skills, I'm also a creative problem-solver and have an eye for design.
 
